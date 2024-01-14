@@ -1,3 +1,11 @@
+<!--
+* Title: Live Chat-box
+* Description: Simple Live Chat-Box Using Ajax
+* Author: MD Saymum Islam Siyam (CodeSQL)
+* Email: si31siyam@gmail.com
+* Portfolio: https://siyam70.netlify.app/
+* Date: 14/01/24
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
